@@ -1,0 +1,5 @@
+# ignore user config, which may contain private steam key
+.screepsrc
+
+# ignore data directory
+data
